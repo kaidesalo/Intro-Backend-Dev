@@ -9,7 +9,7 @@
   "scripts": {
     "server": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm start"
+    "start": "node app.js"
   },
   "dependencies": {
     "cors": "^2.8.6",
